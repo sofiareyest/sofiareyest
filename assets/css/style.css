@@ -1,0 +1,59 @@
+body {
+  font-family: 'Righteous', cursive;
+  font-family: 'Roboto Mono', monospace;
+
+}
+
+.menu-pie {
+  background-color: #660066;
+}
+
+.principal {
+  background-image: url('../img/sofiarrrt.jpg');
+  max-width: 100%;
+}
+
+.logo {
+  max-width: 50%;
+}
+
+.tvnimg {
+  width: 35%;
+}
+
+.agtvimg {
+  width: 50%;
+}
+
+.dfimg {
+  width: 50%;
+  text-align: center;
+}
+
+.recipe-img {
+  max-width: 100%;
+}
+
+.navbar-brand {
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.footertext {
+  font-family: 'Righteous', cursive;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+.carousel-indicators{
+  margin-top: 50%;
+}
+.carousel-indicators li {
+  background-color: #000000;
+}
+
+.titulo-principal {
+  font-weight: 700;
+  font-size: 40px;
+}
