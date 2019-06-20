@@ -1,12 +1,13 @@
 body {
-  font-family: 'Righteous', cursive;
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Alfa Slab One', cursive;
+  font-family: 'Noto Sans', sans-serif;
 
 }
 
 .menu-pie {
   background-color: #660066;
 }
+
 
 .principal {
   background-image: url('../img/sofiarrrt.jpg');
@@ -35,13 +36,13 @@ body {
 }
 
 .navbar-brand {
-  font-family: 'Righteous', cursive;
+  font-family: 'Alfa Slab One', cursive;
   font-weight: 400;
   font-size: 30px;
 }
 
 .footertext {
-  font-family: 'Righteous', cursive;
+  font-family: 'Alfa Slab One', cursive;
   font-weight: 400;
   font-size: 30px;
 }
@@ -56,4 +57,18 @@ body {
 .titulo-principal {
   font-weight: 700;
   font-size: 40px;
+}
+
+.redessociales {
+  color: #FFFFFF;
+}
+
+.text-me {
+  font-weight: 700;
+  font-size: 30px;
+}
+
+.text-center1 {
+  font-weight: 700;
+  font-size: 30px;
 }
