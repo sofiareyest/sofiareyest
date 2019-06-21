@@ -68,7 +68,17 @@ body {
   font-size: 30px;
 }
 
+
 .text-center1 {
   font-weight: 700;
-  font-size: 30px;
+  text-align: center;
+  margin-top: 50px;
 }
+
+.card-title {
+  font-weight: 700;
+}
+
+
+.foto7 {
+  width: 70%;
